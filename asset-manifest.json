@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mobile_shop/static/css/main.34de6062.chunk.css",
-    "main.js": "/mobile_shop/static/js/main.0d499b60.chunk.js",
-    "main.js.map": "/mobile_shop/static/js/main.0d499b60.chunk.js.map",
+    "main.js": "/mobile_shop/static/js/main.c5e386e9.chunk.js",
+    "main.js.map": "/mobile_shop/static/js/main.c5e386e9.chunk.js.map",
     "runtime~main.js": "/mobile_shop/static/js/runtime~main.97f23c84.js",
     "runtime~main.js.map": "/mobile_shop/static/js/runtime~main.97f23c84.js.map",
     "static/css/2.266e55a5.chunk.css": "/mobile_shop/static/css/2.266e55a5.chunk.css",
     "static/js/2.7e74d44c.chunk.js": "/mobile_shop/static/js/2.7e74d44c.chunk.js",
     "static/js/2.7e74d44c.chunk.js.map": "/mobile_shop/static/js/2.7e74d44c.chunk.js.map",
     "index.html": "/mobile_shop/index.html",
-    "precache-manifest.e0c0657198a859b8f3551497e11f2371.js": "/mobile_shop/precache-manifest.e0c0657198a859b8f3551497e11f2371.js",
+    "precache-manifest.0577f9dbdbf6b1b6f6387f95554b22bf.js": "/mobile_shop/precache-manifest.0577f9dbdbf6b1b6f6387f95554b22bf.js",
     "service-worker.js": "/mobile_shop/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/mobile_shop/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/mobile_shop/static/css/main.34de6062.chunk.css.map",
